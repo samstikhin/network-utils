@@ -1,0 +1,7 @@
+Subject: Привет
+From: ***@mail.com
+To: *****@gmail.com
+login: **@mail.com
+password: qwe-1234
+data: data.txt
+attachments: pic.png
